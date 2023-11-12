@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List your dependencies here
-        'numpy',
-        'requests',
+        # 'numpy',
+        # 'requests',
     ],
 )
